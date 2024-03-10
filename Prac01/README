@@ -1,0 +1,19 @@
+# Synopsis
+Practical 1 of Fundamentals of Programming COMP1005/5005
+
+## Contents
+README - readme file for Practical 1
+hello.py - test python file to print out greetings in multiple languages
+num_convert.py - Read a number and convert to int and float
+num_for.py - Read ten numbers and give sum of them
+num_while.py - Read a list of numbers (zero to exit) and give sum of the numbers
+bridge.py - A scene from The Holy Grail
+bridge2.py - A more readable version of bridge2.py
+bruces.py - Let's call every one "Bruce", to avoid confusion
+growth.py - A simulation of uncontrolled growth
+
+## Dependencies
+none
+
+## Version information 
+26/2/2024 - initial version of Practical 1 program 
