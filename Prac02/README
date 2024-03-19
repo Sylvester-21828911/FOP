@@ -7,9 +7,14 @@ strings1.py - Read in a string and print it in reverse
 strings2.py - Read in a string and modify its print values
 bucket1.py - Use a python list for items in a bucket list
 bucket2.py - Added delete function and input error checking to bucket1.py
+assorted.py - Select random biscuits from a pack
+darts.py - Method of calculating pi by throwing darts
+eyes.py - Are you being watched right now?
+fish.py - Oh he's just looking at the fish
 
 ## Dependencies
 none
 
 ## Version information 
 16/03/24 - Added strings1.py, strings2.py, bucket1.py, bucket2.py
+19/03/24 - Added assorted.py, darts.py, fish.py, eyes.py, vend.py
