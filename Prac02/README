@@ -18,3 +18,4 @@ none
 ## Version information 
 16/03/24 - Added strings1.py, strings2.py, bucket1.py, bucket2.py
 19/03/24 - Added assorted.py, darts.py, fish.py, eyes.py, vend.py
+20/03/24 - Edited vend.py with colours and removed unused vars
