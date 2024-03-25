@@ -1,0 +1,16 @@
+## Synopsis
+Practical Test 1 of Fundamentals of Programming COMP1005/5005
+
+## Contents
+./README 				readme file for Practical Test 1
+./The/Meaning/Of/Life/ mints.txt	a text file about wafer-thin mint
+./The/Holy/Grail/PracTest1.py		a program to read user birthyear and print them a birthday cake
+./The/Holy/Grail/witches.txt		a text file about what the witch did
+./Monty/Pythons/Flying/Circus/spam.txt	a spam text file
+
+## Dependencies
+none
+
+## Version information 
+11/03/24 - initial version of Practical Test 1
+25/03/24 - final version of Practical Test 1
