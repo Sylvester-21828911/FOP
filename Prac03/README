@@ -1,0 +1,12 @@
+## Synopsis
+Practical 3 of Fundamentals of Programming COMP1005/5005
+
+## Contents
+./README		This file
+./growthplot.py		A program to show unconstrained growth with plot
+
+## Dependencies
+none
+
+## Version information 
+27/03/24 - Uploaded Prac03
